@@ -1,0 +1,17 @@
+{
+  "name": "markdown-extension-pack",
+  "displayName": "Markdown Extension Pack",
+  "description": "Common and generic extensions for working with markdown",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "yzhang.markdown-all-in-one",
+    "bierner.markdown-shiki",
+    "davidanson.vscode-markdownlint"
+  ]
+}
