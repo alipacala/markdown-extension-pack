@@ -2,6 +2,11 @@
   "name": "markdown-extension-pack",
   "displayName": "Markdown Extension Pack",
   "description": "Common and generic extensions for working with markdown",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alipacala/markdown-extension-pack"
+  },
+  "icon": "https://raw.githubusercontent.com/alipacala/markdown-extension-pack/main/icon.png",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.79.0"
@@ -9,7 +14,7 @@
   "categories": [
     "Extension Packs"
   ],
-  "extensionPack": [ 
+  "extensionPack": [
     "yzhang.markdown-all-in-one",
     "bierner.markdown-shiki",
     "davidanson.vscode-markdownlint"
