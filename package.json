@@ -6,7 +6,7 @@
     "type": "git",
     "url": "https://github.com/alipacala/markdown-extension-pack"
   },
-  "icon": "https://raw.githubusercontent.com/alipacala/markdown-extension-pack/main/icon.png",
+  "icon": "icon.png",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.79.0"
